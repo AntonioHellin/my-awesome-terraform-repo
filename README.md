@@ -5,7 +5,7 @@ An awesome repository created and managed by Terraform for learning IaC
 ## 📋 Repository Information
 
 - **Created by**: Terraform
-- **Created on**: 2026-03-30T10:31:19Z
+- **Created on**: managed by Terraform
 - **Managed by**: Terraform Infrastructure as Code
 
 ## 🚀 About This Repository
