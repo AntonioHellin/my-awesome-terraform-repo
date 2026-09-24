@@ -61,7 +61,3 @@ The integrated workflow performs automated verification:
 - Runs validation checks for IaC definitions when Terraform manifests are present.
 
 ---
-
-## License
-
-This repository is distributed under the terms of the [MIT License](LICENSE).
